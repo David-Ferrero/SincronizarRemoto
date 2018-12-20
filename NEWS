@@ -1,0 +1,38 @@
+1.- TAG CREADO POR:
+
+	Optare3
+
+2.- FICHEROS MODIFICADOS DENTRO DEL TAG:
+
+	$ cvs -q rdiff -sr PPR-1-28 -r PPR-1-28-1304280000 Billing/TRIPII
+
+	File Billing/TRIPII/database/trip/ES012886_insert_t2_t_parametros.sql is new; current revision 1.1
+	File Billing/TRIPII/database/trip/ES012886_insert_t2_t_parametros_rollback.sql is new; current revision 1.1
+	File Billing/TRIPII/php_install/OPTConfig.inc changed from revision 1.1 to 1.2
+	File Billing/TRIPII/php_install/gFuncionesProcesos.PHP changed from revision 1.6 to 1.7
+	File Billing/TRIPII/php_install/pf_fact_anulativas.php changed from revision 1.6 to 1.7
+
+
+3.- OBJETIVO DE LOS CAMBIOS
+
+	ES012886: Mejoras TRIP2
+
+	
+4.- FICHEROS MODIFICADOS POR PROYECTO
+
+	----------------------------------------------------------------------------
+	---						ES012886: Mejoras TRIP2							 ---
+	----------------------------------------------------------------------------
+
+	File Billing/TRIPII/database/trip/ES012886_insert_t2_t_parametros.sql is new; current revision 1.1
+	File Billing/TRIPII/database/trip/ES012886_insert_t2_t_parametros_rollback.sql is new; current revision 1.1
+	File Billing/TRIPII/php_install/OPTConfig.inc changed from revision 1.1 to 1.2
+	File Billing/TRIPII/php_install/gFuncionesProcesos.PHP changed from revision 1.6 to 1.7
+	File Billing/TRIPII/php_install/pf_fact_anulativas.php changed from revision 1.6 to 1.7
+
+
+5.- TAG DE REFERENCIA
+
+PPR-1-28
+PPR-1-28
+PPR-1-28
